@@ -1,9 +1,9 @@
-# Smart LED Lighting System
+# Iot LED Lighting System
 Basel Hassan, bh222jx
 
 ## Project Overview
 
-This project centers around developing a Smart LED Lighting System utilizing IoT technology for responsive e8nvironmental monitoring. Leveraging a microcontroller and energy-efficient LEDs, the goal is to create a lighting system that adapts dynamically to its surroundings, emphasizing both automation and energy-saving principles.
+This project centers around developing a Iot LED Lighting System utilizing IoT technology for responsive environmental monitoring. Leveraging a microcontroller and energy-efficient LEDs, the goal is to create a lighting system that adapts dynamically to its surroundings, emphasizing both automation and energy-saving principles.
 
 **Estimated Project Time**: 24-28 hours.
 
@@ -12,7 +12,7 @@ This project centers around developing a Smart LED Lighting System utilizing IoT
 ## Objective
 
 ### Rationale
-The motivation behind this project stems from a desire to delve into IoT technology for smart systems. By focusing on adaptive lighting, the project aims to investigate automated systems that can enhance energy efficiency while offering greater control.
+The motivation behind this project stems from a desire to delve into IoT technology for systems. By focusing on adaptive lighting, the project aims to investigate automated systems that can enhance energy efficiency while offering greater control.
 
 #### Goals
 The primary goals include:
@@ -99,7 +99,7 @@ The expected outcomes are:
    - Use CMake to configure and build the project
 
 
-# Final IoT Smart Lighting Project
+# Final IoT Lighting Project
 
 ## Overview
 
