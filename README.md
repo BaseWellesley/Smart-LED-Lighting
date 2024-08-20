@@ -242,4 +242,4 @@ The system runs locally using a Raspberry Pi Pico and an MQTT server. This confi
 ---
 
 ### Conclusion
-This IoT project provides practical skills in electronics, coding, and IoT system integration. By combining environmental sensing with smart lighting control, it offers a hands-on approach to building advanced IoT solutions suitable for home automation, energy conservation, and smart living environments.
+This IoT project provides practical skills in electronics, coding, and IoT system integration. It offers a hands-on approach to building advanced IoT solutions suitable for home automation, energy conservation, and smart living environments.
