@@ -28,7 +28,11 @@ add_compile_options(-Wall
 
 # add_subdirectory(servo)
 add_executable(picow_iot
-    picow_iot1.c
+    picow_iot.c
+    FreeRTOSConfig.h
+    lwipopts.h
+    mbedtls_config.h
+
 )
 
 # Set the include directories for the target
@@ -43,6 +47,7 @@ target_link_libraries(picow_iot
     pico_cyw43_arch_lwip_threadsafe_background
     pico_stdlib
     pico_lwip_mbedtls
+    hardware_gpio
     pico_mbedtls
     pico_lwip_mqtt
     hardware_adc
