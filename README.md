@@ -39,7 +39,7 @@ The expected outcomes are:
    **Details**: Core microcontroller for the system  
    **Price**: 100kr
 
-2. <img src="img/led.png" width="200px" />)
+2. <img src="img/LED.png" width="200px" />)
    **Part Name**: LEDs (3W)  
    **Details**: Main lighting elements  
    **Price**: 200kr
@@ -50,7 +50,7 @@ The expected outcomes are:
    **Details**: Detects movements.
    **Price**: 50kr
 
-3. <img src="img/wires.png" width="200px" />) 
+3. <img src="img/Wires.png" width="200px" />) 
    **Part Name**: Miscellaneous Wires  
    **Details**: Required for making all necessary connections  
    **Price**: 40kr
@@ -127,9 +127,10 @@ The project integrates the following components:
 - **PIR Motion Sensor**: Detects movements.
 
 ## Connections
- **3W LEDs**:
+  **3W LEDs**:
    - **GPIO Pins 0, 3, 5**: Controls for each individual LED.
- **PIR Motion Sensor**:
+     
+  **PIR Motion Sensor**:
    - **GPIO Pin 6**: Controls the sensor.
    
 
