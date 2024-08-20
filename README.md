@@ -31,17 +31,17 @@ The expected outcomes are:
 
 ### Bill of Materials
 
-1. ![Raspberry Pi Pico W]<img src="img/pico.png" width="200px" />  
+1. <img src="img/pico.png" width="200px" />  
    **Part Name**: Raspberry Pi Pico W  
    **Details**: Core microcontroller for the system  
    **Price**: 100kr
 
-2. ![LEDs (3W)]<img src=img/LED.png width="200px" />)  
+2. <img src=img/LED.png width="200px" />)  
    **Part Name**: LEDs (3W)  
    **Details**: Main lighting elements  
    **Price**: 200kr
 
-3. ![Miscellaneous Wires]<img src=img/Wires.png width="200px" />)   
+3. <img src=img/Wires.png width="200px" />)   
    **Part Name**: Miscellaneous Wires  
    **Details**: Required for making all necessary connections  
    **Price**: 40kr
