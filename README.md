@@ -31,7 +31,7 @@ The expected outcomes are:
 
 ### Bill of Materials
 
-1. <img src="img/pico.png" width="200px" />  
+1. <img src="img/pico.png" width="200px" />)  
    **Part Name**: Raspberry Pi Pico W  
    **Details**: Core microcontroller for the system  
    **Price**: 100kr
