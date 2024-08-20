@@ -221,7 +221,7 @@ The system runs locally using a Raspberry Pi Pico and an MQTT server. This confi
 ## Transmitting the Data / Connectivity
 
 ### Data Transmission
-- **Frequency**: Data sent every 10 seconds.
+- **Frequency**: Data sent every 8 seconds.
 - **Wireless Protocols**: Uses WiFi for connectivity.
 - **Transport Protocols**: MQTT for messaging.
 - **Design Choices**: MQTT chosen for its lightweight nature and ease of use with IoT devices.
@@ -233,7 +233,7 @@ The system runs locally using a Raspberry Pi Pico and an MQTT server. This confi
 ### Dashboard
 - **Visualization**: Data is displayed on a web-based dashboard using Adafruit IO, providing real-time monitoring and control capabilities.
 - **Data Storage**: Data is stored and managed through Adafruit IO, ensuring easy access and analysis.
-- **Data Saving Frequency**: Every 10 seconds, data is uploaded to Adafruit IO for continuous tracking and visualization.
+- **Data Saving Frequency**: Every 8 seconds, data is uploaded to Adafruit IO for continuous tracking and visualization.
 
 ### Dashboard
 ![Presenting the Data & Control](img/mqtt.png)
