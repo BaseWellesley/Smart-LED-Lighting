@@ -143,7 +143,7 @@ The system runs locally using a Raspberry Pi Pico and an MQTT server. This confi
   }
   ```
 
-- **LED Control**: Controls LEDs based on received MQTT messages.
+- **LED Control**: Controls LEDs based on received MQTT messages or Motion Sensor detections.
   ```cpp
   static void mqtt_pub_data_cb(void *arg, const u8_t *data, u16_t len, u8_t flags) {
     if (data_in > 0)
