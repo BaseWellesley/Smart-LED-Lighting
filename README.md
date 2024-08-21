@@ -34,28 +34,12 @@ The expected outcomes are:
 
 ### Bill of Materials
 
-1. <img src="img/pico.png" width="200px" />) 
-   **Part Name**: Raspberry Pi Pico W  
-   **Details**: Core microcontroller for the system  
-   **Price**: 100kr
-
-2. <img src="img/LED.png" width="200px" />)
-   **Part Name**: LEDs (3W)  
-   **Details**: Main lighting elements  
-   **Price**: 200kr
-
-    
-3. <img src="img/sensor.png" width="200px" />)
-   **Part Name**: PIR Motion Sensor
-   **Details**: Detects movements.
-   **Price**: 50kr
-
-3. <img src="img/Wires.png" width="200px" />) 
-   **Part Name**: Miscellaneous Wires  
-   **Details**: Required for making all necessary connections  
-   **Price**: 40kr
-
----
+|   | Image | Part Name           | Details                               | Price   |
+|---|-------|---------------------|---------------------------------------|---------|
+| 1 | ![Raspberry Pi Pico W](img/pico.png) | **Raspberry Pi Pico W**  | Core microcontroller for the system       | 100kr   |
+| 2 | ![LEDs (3W)](img/LED.png)    | **LEDs (3W)**           | Main lighting elements                    | 200kr   |
+| 3 | ![PIR Motion Sensor](img/sensor.png) | **PIR Motion Sensor**    | Detects movements                        | 50kr    |
+| 4 | ![Miscellaneous Wires](img/Wires.png) | **Miscellaneous Wires**  | Required for making all necessary connections | 40kr    |
 
 ### Component Information
 
